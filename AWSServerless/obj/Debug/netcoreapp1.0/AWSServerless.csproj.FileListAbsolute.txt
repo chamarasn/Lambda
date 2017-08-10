@@ -1,0 +1,10 @@
+C:\Study\AwsLamda\Servess Application\AWSServerless\AWSServerless\bin\Debug\netcoreapp1.0\appsettings.json
+C:\Study\AwsLamda\Servess Application\AWSServerless\AWSServerless\bin\Debug\netcoreapp1.0\AWSServerless.deps.json
+C:\Study\AwsLamda\Servess Application\AWSServerless\AWSServerless\bin\Debug\netcoreapp1.0\AWSServerless.runtimeconfig.json
+C:\Study\AwsLamda\Servess Application\AWSServerless\AWSServerless\bin\Debug\netcoreapp1.0\AWSServerless.runtimeconfig.dev.json
+C:\Study\AwsLamda\Servess Application\AWSServerless\AWSServerless\bin\Debug\netcoreapp1.0\AWSServerless.dll
+C:\Study\AwsLamda\Servess Application\AWSServerless\AWSServerless\bin\Debug\netcoreapp1.0\AWSServerless.pdb
+C:\Study\AwsLamda\Servess Application\AWSServerless\AWSServerless\obj\Debug\netcoreapp1.0\AWSServerless.csprojResolveAssemblyReference.cache
+C:\Study\AwsLamda\Servess Application\AWSServerless\AWSServerless\obj\Debug\netcoreapp1.0\AWSServerless.AssemblyInfo.cs
+C:\Study\AwsLamda\Servess Application\AWSServerless\AWSServerless\obj\Debug\netcoreapp1.0\AWSServerless.dll
+C:\Study\AwsLamda\Servess Application\AWSServerless\AWSServerless\obj\Debug\netcoreapp1.0\AWSServerless.pdb

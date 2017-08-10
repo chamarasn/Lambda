@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSServerless", "AWSServerless.csproj", "{F8FE132B-B6B3-4A68-9A00-B8D4FE371058}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSServerless.Tests", "..\AWSServerless.Tests\AWSServerless.Tests.csproj", "{67EC7C63-DFD3-4A21-A265-1A15CCA53860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8FE132B-B6B3-4A68-9A00-B8D4FE371058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FE132B-B6B3-4A68-9A00-B8D4FE371058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FE132B-B6B3-4A68-9A00-B8D4FE371058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FE132B-B6B3-4A68-9A00-B8D4FE371058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67EC7C63-DFD3-4A21-A265-1A15CCA53860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67EC7C63-DFD3-4A21-A265-1A15CCA53860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67EC7C63-DFD3-4A21-A265-1A15CCA53860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67EC7C63-DFD3-4A21-A265-1A15CCA53860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
