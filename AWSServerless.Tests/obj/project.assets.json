@@ -10536,10 +10536,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Study\\AwsLamda\\Servess Application\\AWSServerless\\AWSServerless.Tests\\AWSServerless.Tests.csproj",
+      "projectUniqueName": "C:\\Study\\AwsLamda\\LambdaGit\\AWSServerless.Tests\\AWSServerless.Tests.csproj",
       "projectName": "AWSServerless.Tests",
-      "projectPath": "C:\\Study\\AwsLamda\\Servess Application\\AWSServerless\\AWSServerless.Tests\\AWSServerless.Tests.csproj",
-      "outputPath": "C:\\Study\\AwsLamda\\Servess Application\\AWSServerless\\AWSServerless.Tests\\obj\\",
+      "projectPath": "C:\\Study\\AwsLamda\\LambdaGit\\AWSServerless.Tests\\AWSServerless.Tests.csproj",
+      "outputPath": "C:\\Study\\AwsLamda\\LambdaGit\\AWSServerless.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"
@@ -10547,8 +10547,8 @@
       "frameworks": {
         "netcoreapp1.0": {
           "projectReferences": {
-            "C:\\Study\\AwsLamda\\Servess Application\\AWSServerless\\AWSServerless\\AWSServerless.csproj": {
-              "projectPath": "C:\\Study\\AwsLamda\\Servess Application\\AWSServerless\\AWSServerless\\AWSServerless.csproj"
+            "C:\\Study\\AwsLamda\\LambdaGit\\AWSServerless\\AWSServerless.csproj": {
+              "projectPath": "C:\\Study\\AwsLamda\\LambdaGit\\AWSServerless\\AWSServerless.csproj"
             }
           }
         }

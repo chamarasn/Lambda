@@ -9439,10 +9439,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Study\\AwsLamda\\Servess Application\\AWSServerless\\AWSServerless\\AWSServerless.csproj",
+      "projectUniqueName": "C:\\Study\\AwsLamda\\LambdaGit\\AWSServerless\\AWSServerless.csproj",
       "projectName": "AWSServerless",
-      "projectPath": "C:\\Study\\AwsLamda\\Servess Application\\AWSServerless\\AWSServerless\\AWSServerless.csproj",
-      "outputPath": "C:\\Study\\AwsLamda\\Servess Application\\AWSServerless\\AWSServerless\\obj\\",
+      "projectPath": "C:\\Study\\AwsLamda\\LambdaGit\\AWSServerless\\AWSServerless.csproj",
+      "outputPath": "C:\\Study\\AwsLamda\\LambdaGit\\AWSServerless\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"
